@@ -13,13 +13,13 @@ A Python-based GUI application that organizes files in a folder into categories 
 ## 📷 Screenshots
 
 ### **Home Screen**
-![Home Screen](<img  src='../SmartFileOrganizer/public/app.png' alt='app-logo'/>)
+![Home Screen](./public/app.png)
 
 ### **Before Folder Structure**
-![Folder Structure](<img  src='../SmartFileOrganizer/public/before.png' alt='app-logo'/>)
+![Folder Structure](./public/before.png)
 
 ### **After Folder Structure**
-![Folder Structure](<img  src='../SmartFileOrganizer/public/after.png' alt='app-logo'/>)
+![Folder Structure](./public/after.png)
 
 ---
 
