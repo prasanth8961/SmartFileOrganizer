@@ -69,7 +69,7 @@ root.geometry("400x200")
 folder_path = tk.StringVar()
 
 tk.Label(root , text="Select Source Folder:").pack(pady=10)
-tk.Entry(root, textvariable=folder_path, width=40).pack(pady=5)
+tk.Entry(root, textvariable=folder_path, width=40 , ).pack(pady=5)
 tk.Button(root , text="Browse" , command=select_folder).pack(pady=5)
 tk.Button(root , text="Organize Files", command=organize ,bg="green" , fg="white").pack(pady=20)
 
