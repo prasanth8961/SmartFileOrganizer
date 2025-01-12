@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables and settings
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+.venv.bak/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Application-specific files
+output/
+backup/
+archive/
+
+# Files created by Tkinter file dialogs
+*.tmp
+
+# Ignore all files in other folders except source code
+**/node_modules/
+**/Other/
+**/Images/
+**/Music/
+**/Videos/
+**/Documents/
